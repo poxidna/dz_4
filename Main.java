@@ -4,6 +4,7 @@ public class Main {
         Second var = new Second();
 
         var.printA();
+System.out.println(String.format("~~~< %s>~~~", var.printA()));
 
     }
 }
